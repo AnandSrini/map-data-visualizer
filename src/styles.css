@@ -1,0 +1,59 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+.legend-container {
+  background-color: white;
+  padding: 5px;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.65);
+  border-radius: 4px;
+}
+
+.legend-div {
+  height: 25px;
+  line-height: 25px;
+}
+
+.dot {
+  height: 18px;
+  width: 18px;
+  margin-top: 7px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.gray {
+  background-color: #bbb;
+}
+
+.mutiple {
+  background-color: red;
+}
+
+.elephant {
+  background-color: #808080;
+}
+
+.leopard {
+  background-color: #d6952d;
+}
+
+.lion {
+  background-color: yellow;
+}
+
+.tiger {
+  background-color: #d6572d;
+}
+
+.others {
+  background-color: pink;
+}
+
+.NA {
+  background-color: black;
+}
